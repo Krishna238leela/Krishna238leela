@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Krishnaleela
 - 👀 I’m interested in .. software field.
-- 🌱 I’m currently learning ..react js.
+- 🌱 I’m currently learning ..uipath.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
